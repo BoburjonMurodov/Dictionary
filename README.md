@@ -23,6 +23,6 @@
 </p>
 
 ## 📦 APK File
-You can download the APK file [here](./app-debug.apk).
+You can download the APK file [here](https://github.com/BoburjonMurodov/Dictionary/releases/download/release/app-release.apk).
 
 
